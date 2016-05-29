@@ -24,15 +24,15 @@
 #txt {
  	position: absolute;
 	margin: 0 auto;
-	top: 50%;
-	left: 30%;
+	top: 60%;
+	left: 20%;
 
 }
 #btn {
 	position: absolute;
 	margin: 0 auto;
 	top: 70%;
-	left: 50%
+	left: 40%
 }
 .button {
     width:200px;
