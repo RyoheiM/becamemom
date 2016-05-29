@@ -66,8 +66,8 @@
 	position:absolute;
 	width:100%;
     height: 100%;
-	-webkit-animation: imgPassToLeft0 60s infinite;
-	animation: imgPassToLeft0 60s infinite;
+	-webkit-animation: imgPassToLeft0 35s infinite;
+	animation: imgPassToLeft0 35s infinite;
 }
 /*各写真の並び位置を設定
 #photo1, #photo2, #photo3, #photo4, #photo5 */
